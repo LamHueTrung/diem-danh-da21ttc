@@ -1,0 +1,87 @@
+html {
+    font-size: 62.5%;
+    font-family: var(--font-family);
+    width: 1200px;
+    min-width: 100%;
+    box-sizing: border-box;
+}
+.header {
+    font-size: 40px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    padding: 50px 0;
+    background: yellowgreen;
+}
+.content {
+    display: block;
+    width: 100%;
+}
+.user {
+    display: inline-flex;
+    width: 100%;
+    justify-content: center;
+}
+.mssv {
+    font-size: 14px;
+    margin-top: 24px;
+}
+.name {
+    font-size: 14px;
+    margin: 24px 16px 0;
+}
+
+button {
+    margin: auto;
+    display: block;
+    margin-top: 20px;
+    width: 200px;
+    text-align: center;
+    background: green;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+}
+.danh_sach {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    width: 100%;
+    border: 1px solid;
+    border-radius: 25px;
+}
+title {
+    display: block;
+    font-size: 30px;
+    color: blue;
+    margin-top: 10px;
+}
+#list-courses {
+    list-style: none;
+}
+#list-courses li {
+    height: 25px;
+}
+.nd {
+    font-size: 18px;
+}
+.date {
+    margin-left: 10px;
+}
+#delete {
+    margin: 0;
+    display: inline-block;
+}
+.name-1 {
+    display: inline-block;
+    width: 200px;
+}
+.date-1, .subject-1 {
+    display: inline-block;
+    width: 170px; 
+}
+
+.name-1, .date-1, .subject-1 {
+    margin: 0;
+    border: 1px solid;
+}

@@ -1,0 +1,12 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Họ và tên",
+      "mssv": "MSSV",
+      "date": "Ngày/Tháng/Năm",
+      "subject": "Tên môn học",
+      "out": "Lí do vắng"
+    }
+  ]
+}
